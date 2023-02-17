@@ -4,4 +4,4 @@ I have collected a web3, Metaverse,  AI, MLOps, AWS Sagemaker, Blockchain, API T
 
 If anyone has the PDF file not opening after clone the book repo., I have uploaded all the books in google drive, you can easily download them from here. 
 
-[Emerging Technologies Books Drive link](https://drive.google.com/drive/folders/1gCF8BEo_6TBbgjj0pCOTeZN7J5xnzOuc?usp=sharing)
+[Emerging Technologies Books Drive link](https://drive.google.com/drive/folders/1RMMZe7NKufjNee_zq04oQqb_gOdw9QzT?usp=share_link)
